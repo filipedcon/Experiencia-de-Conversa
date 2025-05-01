@@ -9,11 +9,11 @@ Torça, interaja, acompanhe os jogos **ao vivo**, veja o elenco atualizado e tro
 
 Este bot foi feito para rodar no Telegram e oferece:
 
-- 📋 **Elenco atualizado** do time de CS2 da FURIA
-- 🟢 **Status ao vivo dos jogos** com placar
+- 📋 **Elenco atual** do time de CS2 da FURIA
+- 🟢 **Status ao vivo dos jogos** para usuários do gemini com acesso a 2025
 - 🎙️ **Gritos de torcida simulados** (tipo: "É balaaaaaa!")
 - 🤖 **Conversa com IA** no estilo fanático da torcida
-- 🧠 IA integrada com o **Gemini 2.0 Flash** da Google
+- 🧠 IA integrada com o **Gemini 2.0 Flash** grátis da Google
 
 ---
 
